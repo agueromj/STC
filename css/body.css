@@ -1,0 +1,15 @@
+/* latin */
+@font-face {
+    font-family: 'Arial', cursive; 'Arial';
+        
+}
+
+h1 {
+    font-family: 'Pacifico', cursive; Arial;
+    font-weight: bolder;
+}
+
+p {
+    font-family: 'Pacifico', cursive; Arial;
+    font-weight: bolder;
+}
